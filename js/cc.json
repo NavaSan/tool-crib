@@ -1,0 +1,17 @@
+[
+    {
+        "CC": "0215",
+        "Descripcion": "Comprecion",
+        "Departamento": "Comprecion"
+    },
+    {
+        "CC": "0348",
+        "Descripcion": "Inyeccion-Moldeo",
+        "Departamento": "Moldeo"
+    },
+    {
+        "CC": "0501",
+        "Descripcion": "Produccion (48000, 612, 617, 830, 930, plantes, Bodines, etc)",
+        "Departamento": "Produccion"
+    }
+]
